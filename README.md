@@ -3,8 +3,7 @@
  <img  src="https://devfel.com/imgs/devfel-logo-01.JPG" alt="DevFel"></a>
 </p>
 
-<h1 align="center">NLW - HEAT - ORIGIN</h1>
-<h2 align="center">Card Do-While</h2>
+<h1 align="center">NLW - HEAT - ORIGIN </br> Card Do-While</h1>
 
 <div align="center">
 
@@ -24,7 +23,6 @@ This project was done using HTML, CSS and JavaScript.</p>
 ## 📝 Table of Contents
 
 - [Built Using](#built_using)
-- [Getting Started](#getting_started)
 - [Acknowledgements](#acknowledgements)
 - [Licenses](#licenses)
 - [Authors](#authors)
